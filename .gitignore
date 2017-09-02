@@ -1,0 +1,13 @@
+*.pyc
+__pycache__
+myvenv
+db.sqlite3
+.DS_Store
+
+git add --all .
+git commit -m "Mi app Django Girls, primer commit"
+ [...]
+ 13 files changed, 200 insertions(+)
+ create mode 100644 .gitignore
+ [...]
+ create mode 100644 mysite/wsgi.py
